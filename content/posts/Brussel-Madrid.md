@@ -1,5 +1,5 @@
 ---
-title: "Post_1"
+title: "Brussel - Madrid"
 date: 2019-09-20T14:41:41+01:00
 draft: false
 ---
