@@ -1,0 +1,5 @@
+{
+	  "scripts": {
+		      "build": "rm -rf themes/soho;git clone https://github.com/alexandrevicenzi/soho.git themes/soho && hugo"
+		        }
+}
