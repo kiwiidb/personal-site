@@ -172,5 +172,4 @@ do
 done
 ```
 
-That's it for now, I hope someone found this useful. Please try it out for yourself and if you have any questions, the best way to get in touch is via 
-[Twitter](https://twitter.com
+That's it for now, I hope someone found this useful. Please try it out for yourself and if you have any questions, get in touch using some of the links on the left.
