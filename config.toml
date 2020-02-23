@@ -1,6 +1,6 @@
 baseURL = "https://personal-site-sable.now.sh/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Kwinten De Backer"
 enableInlineShortcodes = true
 theme = "soho"
 
@@ -8,19 +8,19 @@ summarylength = 10
 enableEmoji = true
 
 [params]
-author = "Author Name"
-description = "My Blog"
+author = "Kwinten De Backer"
+description = "Freelance Back-End & DevOps"
 
 ## Set one of:
 # gravatar = "soho@example.com"
-profilePicture = "images/profile.png"
+profilePicture = "images/foto.jpg"
 
-copyright = "Author Name"
+copyright = "Kwinten De Backer"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
 ## Set custom theme color.
-# themeColor = "#fc2803"
+themeColor = "#fc2803"
 
 ## Set custom CSS and/or JS to override site defaults.
 customCss = ["css/blog.css"]
@@ -35,26 +35,32 @@ customJs = ["js/blog.js"]
   [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
-  url = "#"
+  url = "https://github.com/kiwiidb"
 
   [[params.socialIcons]]
   icon = "fa-twitter"
   title = "Twitter"
-  url = "#"
+  url = "https://twitter.com/kiwiidb"
 
 [menu]
 
   [[menu.main]]
-  name = "Posts"
+  name = "Blog"
   weight = 100
-  identifier = "posts"
+  identifier = "blog"
   url = "/posts/"
 
   [[menu.main]]
-  name = "About"
+  name = "CV"
+  identifier = "cv"
+  weight = 300
+  url = "/cv/"
+
+[[menu.main]]
+  name = "Portfolio"
   identifier = "about"
   weight = 300
-  url = "/about/"
+  url = "/portfolio/"
 
 [markup]
 
