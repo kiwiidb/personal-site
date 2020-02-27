@@ -1,0 +1,24 @@
+{{ define "main" -}}
+<div class="posts">
+  {{ range .Site.RegularPages -}}
+    {{ if and (or (eq .Type "post") (eq .Type "article")) (or (not (isset .Params "Hidden")) (eq .Params.Hidden false)) -}}
+    <article class="post">
+      <h1 class="post-title">
+        {{ .Title }}
+      </h1>
+      {{ if .Description }}
+        {{ .Description }}
+      {{ else }}
+        {{ .Summary }}
+      {{ end }}
+
+      {{ if .Truncated }}
+      <div class="read-more-link">
+        <a href="{{ .RelPermalink }}">Read More</a>
+      </div>
+      {{ end }}
+    </article>
+    {{- end }}
+  {{- end }}
+</div>
+{{- end }}
