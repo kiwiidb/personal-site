@@ -15,5 +15,5 @@ and participate in quizzes.
 
 Please take a look at my CV, projects I've worked on, or my blog.
 
-I've you'd like to hire me, please send me an e-mail.
+I've you'd like to hire me, please send me an [e-mail](mailto:kwinten.debacker@hotmail.com).
 <!--more-->
