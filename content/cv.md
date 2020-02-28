@@ -39,5 +39,5 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 
 **Worked with these before**
 
-  Keras, Tensorflow, C++, C, R, ..
+  Keras, Tensorflow, C++, C, R, Latex, OpenCV, Redis, ElasticSearch, npm, MongoDB, PostgreSQL, Grafana, Prometheus, OpsGenie, bitcoind.
 
