@@ -19,12 +19,15 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 - Developing Spring Boot microservices
 
   Mainly using Java, Spring Boot, Terraform, Kubernetes, Helm and Azure DevOps Pipelines.
+
 ### DevOps Engineer at [Be-Mobile](be-mobile.com)
 - 01/2019 - 09/2019
 - Responsible for deployments using Kubernetes, Jenkins and Helm. Writing scripts to automate sysadmin tasks.
+
 ### Back-end Engineer at [Be-Mobile](be-mobile.com)
 - 04/2018 - 01/2019
 - Programming services in Go for retrieving GPS data and visualizing map data.
+
 ### Deep Learning Engineer at [Robovision](robovision.ai)
 - 09/2017 - 02/2018
 - Developing Deep Learning systems for industrial applications.
