@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 date: 2020-02-27T21:22:17+01:00
 draft: false
 ---
-### Master in Physics and Astronomy
+## Master in Physics and Astronomy
 - From 2012 to 2017, I studied physics at Ghent University. My interests mainly lied with theoretical and computational physics.
 Towards the end of my degree, my elective courses mostly pivoted to software development.
 
