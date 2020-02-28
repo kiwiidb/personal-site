@@ -28,6 +28,7 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 ### Deep Learning Engineer at [Robovision](robovision.ai)
 - 09/2017 - 02/2018
 - Developing Deep Learning systems for industrial applications.
+
 ## Software skills
 **Worked a lot with these**
 
@@ -35,5 +36,5 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 
 **Worked with these before**
 
-  Keras, Tensorflow, C++, C, ..
+  Keras, Tensorflow, C++, C, R, ..
 
