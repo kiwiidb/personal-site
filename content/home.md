@@ -10,7 +10,7 @@ I'm quite good at writing things in Go and in YAML, although I have worked
 with many languages, frameworks and technologies. I enjoy working with Linux
 machines and automating cloud infrastructure integration and deployment. 
 
-In my free time, I enjoy developing [Lightning](https://www.lopp.net/lightning-information.html) apps, play [Warhammer Fantasy](https://www.the-ninth-age.com) and participate in quizzes.
+In my free time, I enjoy developing [Lightning](https://www.lopp.net/lightning-information.html) [apps](https://flitz.cards), play [Warhammer Fantasy](https://www.the-ninth-age.com) and participate in quizzes.
 
 Please take a look at my [CV](./cv), [projects](./portfolio) I've worked on, or my [blog](./posts).
 
