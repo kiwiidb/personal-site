@@ -4,7 +4,7 @@ date: 2020-02-27T20:22:21+01:00
 draft: false
 type: post
 ---
-I'm Kwinten, 26 year old freelance physicist-turned-software-engineer from Ghent, Belgium. 
+I'm Kwinten, 26-year-old freelance physicist-turned-software-engineer from Ghent, Belgium. 
 Professionally I enjoy developing back-end software and infrastructure.
 I'm quite good at writing things in Bash, Go and YAML, although I have worked
 with many languages, frameworks and technologies. I enjoy working with Linux
