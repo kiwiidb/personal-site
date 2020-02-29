@@ -13,7 +13,7 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
     I have researched relativistic star clusters, using numerical methods and *SciPy* to solve the field equations and to calculate photon orbits.
 
 ## Experience
-### DevOps Engineer at [Battmobiel](https://battmobiel.be)
+### Freelance DevOps / Back-end Engineer at [Battmobiel](https://battmobiel.be)
 - 01/2020 - ...
 - Setting up infrastructure, integration and deployment pipelines for back-end services deployed on Azure's AKS.
 - Developing Spring Boot microservices
