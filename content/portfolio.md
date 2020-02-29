@@ -17,6 +17,19 @@ I made a [Lightning Network](https://lightning.network) gift card service, deliv
 
 This site is made with the Hugo framework. I am hosting my pictures on AWS S3.
 
+# Lightning Lottery
+
+For the Lightning hackdays in Munich and Berlin, I made a Lightning lottery, using
+
+- Python for the back-end, hosted using Docker on AWS EC2.
+- [C-Lightning](https://github.com/ElementsProject/lightning) for LN payments
+- [paypercall](https://github.com/ElementsProject/lightning) for getting the payment required to enter the lottery
+- [Bitrefill](https://bitrefill.com) API for automatically buying the lottery prizes.
+
+The project is no longer live, but I used a modified version on the LN hackday in Munich in cooperation with the guys from [Nodl](https://nodl.it), to give away a Nodl Box. Watch the video on Youtube:
+
+[![Nodl](https://img.youtube.com/vi/3uP4if4K8UU/0.jpg)](https://www.youtube.com/watch?v=3uP4if4K8UU)
+
 # Thesis
 
 I wrote my [thesis](https://lib.ugent.be/fulltxt/RUG01/002/349/830/RUG01-002349830_2017_0001_AC.pdf) on relativistic star clusters (Dutch).
