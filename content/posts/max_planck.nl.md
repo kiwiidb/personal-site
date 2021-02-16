@@ -55,8 +55,8 @@ Een veelgehoord tegenargument dat door bitcoinvoorstanders in het energiedebat w
 Een veelgehoord tegenargument dat door bitcoinvoorstanders in het energiedebat wordt gebruikt is dat het klassieke financiele systeem ook veel energie verbruikt.
 Een frappant voorbeeld is dat de Europese Centrale bank letterlijk [geld print en uitdeelt aan oliereuzen](https://www.greenpeace.org/eu-unit/issues/climate-energy/3933/ecb-injects-e7-billion-into-fossil-fuels-coronavirus-crisis/).
 
-Dit is correct, maar is ook een drogreden: dit noemt men [whataboutism](https://en.wikipedia.org/wiki/Whataboutism). Whataboutism is
-geen geldig argument, want het zegt niks over wat men eigenlijk probeert te verdedigen.
+Dit is correct, maar is ook een drogreden: dit noemt men een [whataboutism](https://en.wikipedia.org/wiki/Whataboutism). Whataboutisms zijn
+geen geldige argumenten, want het zegt niks over wat men eigenlijk probeert te verdedigen.
 
 Whataboutismes kunnen wel gebruikt worden om de ongeldigheid 
 van een ander argument te illustreren. Dat "ander argument" is in dit geval een [Nirvana Fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy).
