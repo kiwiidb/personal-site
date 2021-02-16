@@ -36,6 +36,7 @@ We must produce by:
 
 My nuclear energy plea is one for another blog post, but you have already noticed that I am a fan.
 We must consume by banning things from life that inherently emit greenhouse gases:
+
 - Not eating meat
 - Move around with purely electric means of transport
 
