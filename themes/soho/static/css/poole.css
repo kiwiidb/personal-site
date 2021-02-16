@@ -68,8 +68,8 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #227bb9;
-  text-decoration: none;
+  color: #b92222;
+  text-decoration: underline;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
