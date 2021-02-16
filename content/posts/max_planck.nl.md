@@ -24,7 +24,7 @@ Aangespoord door politici die menen dat het een goed idee is om [kerncentrales t
 denken sommige mensen dat "we met z'n allen zuiniger moeten gaan leven". Dit is fundamenteel verkeerd.
 Om het even in het belachelijke te trekken: het beste scenario voor "de planeet" is als alle mensen tegelijkertijd harakiri zouden plegen.
 Wat moeten we dan wel doen? Ik vind dat het _d-woord_ [al veel te veel is misbruikt](https://xkcd.com/1007/) om een politieke agenda te vervullen,
-maar we moeten op een duurzame manier zoveel mogelijk energie produceren als mogelijk. Deze energie moeten we dan op een efficiënte manier consumeren, 
+maar we moeten op een duurzame manier zoveel energie produceren als mogelijk. Deze energie moeten we dan op een efficiënte manier consumeren, 
 om een maximum aan welvaart te scheppen voor een maximum aan mensen.
 
 Produceren moeten we doen door:
