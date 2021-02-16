@@ -19,6 +19,7 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 - Developing Spring Boot microservices
 
   Mainly using Java, Spring Boot, Terraform, Kubernetes, Helm and Azure DevOps Pipelines.
+  Also used the Quarkus framework
 
 ### DevOps Engineer at [Be-Mobile](https://be-mobile.com)
 - 01/2019 - 09/2019
@@ -35,7 +36,7 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 ## Software skills
 **Worked a lot with these**
 
-   Git, Go, Python, Java, VueJS, Bash, Kubernetes, Helm, Jenkins, Docker, AWS, Google Cloud, Azure (DevOps), Terraform, Kafka, C-Lightning, LND, Zeit Serverless.
+   Git, Go, Python, Java, Flutter, VueJS, Bash, Kubernetes, Helm, Jenkins, Docker, AWS, Google Cloud, Azure (DevOps), Terraform, Kafka, C-Lightning, LND, Zeit Serverless.
 
 **Worked with these before**
 
