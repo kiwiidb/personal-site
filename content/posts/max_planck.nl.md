@@ -44,6 +44,7 @@ Consumeren moeten we doen door dingen die inherent wel broeikasgassen uitstoten 
 > te verbranden schept welvaart op de korte termijn, maar vernietigt het op de langere termijn. Iedereen kan deze energie
 > dan gebruiken voor _whatever they please_, of het nu kerstverlichting, GPU-rendering of het delven van bitcoins is. Een persoonlijke
 > mening over het nut van een of andere activiteit die met de energie wordt uitgevoerd is op dat moment van geen belang meer.
+
 ## _Whataboutism_ versus de _Nirvana Fallacy_
 
 > <- Het klassieke systeem gebruikt nog veel meer energie.
