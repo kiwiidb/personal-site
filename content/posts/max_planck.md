@@ -5,28 +5,30 @@ draft: false
 ---
 Gezien het ontelbare aantal artikels over het energieverbruik van het Bitcoinnetwerk begon ik ook last te krijgen van een zekere _FOMO_
 om er iets over te schrijven. De onverbetelijke betweter in mij haat het als iemand [fout is op het internet](https://xkcd.com/386/),
-dus zat er niets anders op dan deze blog post te schrijven. Een discussie die ik onlangs had over dit onderwerp zorgde er ook voor dat
+dus zat er niets anders op dan deze blogpost te schrijven. Een discussie die ik onlangs had over dit onderwerp zorgde er ook voor dat
 ik zin had om mijn gedachten op papier te zetten, omdat ik denk dat het zo duidelijker is. Ik zal geparafraseerde fragmenten uit deze discussie
-gebruiken om mijn punt duidelijk te maken. Voor de ongeduldigen is er een TLDR aan het einde.
+gebruiken om mijn punt duidelijk te maken. Voor de ongeduldigen is er een _TLDR_ aan het einde.
 TODO verwijs naar Engelse post
 
 ## Er is genoeg energie voor iedereen
 
-```
--> Bitcoin verbruikt te veel energie, het is niet goed voor het klimaat.
-<- Bitcoin verbruikt inderdaad veel energie, maar energie kan uit klimaatvriendelijke bronnen komen.
--> Dat doet er niet toe, we moeten zowiezo energiezuiniger gaan leven.
-<- ?
-```
+> -> Bitcoin verbruikt te veel energie, het is niet goed voor het klimaat.
+> 
+> <- Bitcoin verbruikt inderdaad veel energie, maar energie kan uit klimaatvriendelijke bronnen komen.
+> 
+> -> Dat doet er niet toe, we moeten zowiezo energiezuiniger gaan leven.
+> 
+> <- ?
 
 Aangespoord door politici die menen dat het een goed idee is om [kerncentrales te sluiten om gascentrales in de plaats te bouwen](https://www.tijd.be/politiek-economie/belgie/algemeen/regering-zet-stap-richting-sluiting-kerncentrales/10282516.html),
-denken sommige mensen dat "we met z'n allen zuiniger moeten gaan leven". Dit is fundamenteel verkeerd natuurlijk.
+denken sommige mensen dat "we met z'n allen zuiniger moeten gaan leven". Dit is fundamenteel verkeerd.
 Om het even in het belachelijke te trekken: het beste scenario voor "de planeet" is als alle mensen tegelijkertijd harakiri zouden plegen.
 Wat moeten we dan wel doen? Ik vind dat het _d-woord_ [al veel te veel is misbruikt](https://xkcd.com/1007/) om een politieke agenda te vervullen,
-maar we moeten op een duurzame manier zoveel mogelijk energie produceren als mogelijk, en deze op een zo efficient mogelijke manier consumeren als mogelijk,
-zodat we zoveel mogelijk welvaart scheppen voor zoveel mensen als mogelijk.
+maar we moeten op een duurzame manier zoveel mogelijk energie produceren als mogelijk. Deze energie moeten we dan op een efficiënte manier consumeren, 
+om een maximum aan welvaart te scheppen voor een maximum aan mensen.
 
 Produceren moeten we doen door:
+
 - Kerncentrales bouwen
 - Zonnepanelen leggen
 - Windmolenparken bouwen
@@ -35,20 +37,27 @@ Produceren moeten we doen door:
 Mijn kernenergiepleidooi is er een voor een andere blogpost, maar het is u alvast niet ontgaan dat ik een fan ben.
 Consumeren moeten we doen door dingen die inherent wel broeikasgassen uitstoten te verbannen uit het leven:
 - Geen vlees te eten
-- Ons te verplaatsen met zuiver elektrische transportmiddelen
+- Ons verplaatsen met zuiver elektrische transportmiddelen
 
-Dus om het even samen te vatten: het is onze morele plicht om _op een duurzame manier_ zoveel energie als mogelijk te verbruiken,
-want dat is de enige manier om zoveel mogelijk welvaart voor zoveel mogelijk mensen te scheppen. Energie produceren door fossiele brandstoffen
-te verbranden schept welvaart op de korte termijn, maar vernietigt het op de langere termijn. Iedereen kan deze energie
-dan gebruiken voor _whatever they please_, of het nu kerstverlichting, GPU-rendering of het delven van bitcoins is. Een persoonlijke
-mening over het nut van een of andere activiteit die met de energie wordt uitgevoerd is op dat moment waardeloos.
+> Dus om het even samen te vatten: het is onze morele plicht om _op een duurzame manier_ zoveel energie als mogelijk te verbruiken,
+> want dat is de enige manier om zoveel mogelijk welvaart voor zoveel mogelijk mensen te scheppen. Energie produceren door fossiele brandstoffen
+> te verbranden schept welvaart op de korte termijn, maar vernietigt het op de langere termijn. Iedereen kan deze energie
+> dan gebruiken voor _whatever they please_, of het nu kerstverlichting, GPU-rendering of het delven van bitcoins is. Een persoonlijke
+> mening over het nut van een of andere activiteit die met de energie wordt uitgevoerd is op dat moment van geen belang meer.
 ## _Whataboutism_ versus de _Nirvana Fallacy_
+
+> <- Het klassieke systeem gebruikt nog veel meer energie.
+> 
+> -> Nog zo'n stokpaardje van de bitcoinmeute: whataboutismes.
+
+Een veelgehoord tegenargument dat door bitcoinvoorstanders in het energiedebat wordt gebruikt is dat het klassieke 
 Een veelgehoord tegenargument dat door bitcoinvoorstanders in het energiedebat wordt gebruikt is dat het klassieke financiele systeem ook veel energie verbruikt.
 Een frappant voorbeeld is dat de Europese Centrale bank letterlijk [geld print en uitdeelt aan oliereuzen](https://www.greenpeace.org/eu-unit/issues/climate-energy/3933/ecb-injects-e7-billion-into-fossil-fuels-coronavirus-crisis/).
+
 Dit is correct, maar is ook een drogreden: dit noemt men [whataboutism](https://en.wikipedia.org/wiki/Whataboutism). Whataboutism is
 geen geldig argument, want het zegt niks over wat men eigenlijk probeert te verdedigen.
 
-Whataboutismes zijn inderdaad geen geldige argumenten maar kunnen wel gebruikt worden om de ongeldigheid 
+Whataboutismes kunnen wel gebruikt worden om de ongeldigheid 
 van een ander argument te illustreren. Dat "ander argument" is in dit geval een [Nirvana Fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy).
 De _Nirvana Fallacy_ bestaat eruit een idee aan te vallen op de grond dat het niet perfect is. Er wordt een alternatief aangedragen dat beter zou zijn,
 maar bij nader onderzoek blijkt dat dit alternatief een zuiver theoretische constructie is en nooit kan bestaan in de echte wereld. In dit geval probeert de gebruiker te argumenteren dat bitcoin helemaal niet nodig zou zijn in een wereld waar:
@@ -61,12 +70,17 @@ maar bij nader onderzoek blijkt dat dit alternatief een zuiver theoretische cons
 - Het regenwoud wordt verwoest in Afrika om putten te maken waaruit glimmende stenen naar boven worden gehaald, deze stenen vervolgens naar Zwitsterland worden getransporteerd om ze daar opnieuw in een put in de grond te steken.
 - Vastgoedprijzen door het beleid van bovengenoemde centrale banken absurde niveaus bereiken, waardoor het voor meer en meer jonge mensen en migranten onmogelijk is om zelf ooit een huis te bezitten.
 
-Helaas is dat niet onze wereld aangezien al deze dingen vandaag de dag de harde realiteit zijn.
+Helaas is dat niet onze wereld aangezien al deze dingen vandaag de harde realiteit zijn.
 
 Het is mij al lang duidelijk geworden dat er geen louter politieke of militaire oplossing kan zijn voor al bovenstaande problemen,
-en dat de enige mogelijkheid is om _out of the box_ te denken en te aanvaarden dat bitcoin wel een mogelijke oplossing is voor
-deze problemen, en dat het energieverbruik in dat geval wel een redelijke prijs is om te betalen.
+en dat de enige mogelijkheid is om _out of the box_ te denken en te aanvaarden dat bitcoin wel een mogelijke oplossing kan zijn,
+en dat het energieverbruik in dat geval wel een redelijke prijs is om te betalen.
 ## What have the Romans ever done for us?
+
+> -> Bitcoin is enkel goed als casino om de lucky few te verrijken
+> 
+> -> Alle verhalen van het gebruik van bitcoin voor nobele doeleinden zijn fabeltjes
+
 In dit stuk geef ik graag een bloemlezing van _feel-good_ verhalen om een beetje tegenwerk te bieden aan iedereen die verkondigt dat
 bitcoin enkel wordt gebruikt voor speculatie en het verrijken van _early adopters_.
 
