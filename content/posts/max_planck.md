@@ -6,7 +6,7 @@ draft: false
 Given the countless number of articles about the energy consumption of the Bitcoin network, I also started to suffer from a certain _FOMO_
 to write something about it. The unaffordable know-it-all in me hates it when [someone is wrong on the internet](https://xkcd.com/386/),
 so there was no other option than to write this blog post. A discussion I had recently on this topic made
-me feel like putting my thoughts on paper because I think it's so clearer this way. I will paraphrase excerpts from this discussion
+me feel like putting my thoughts on paper because I think it's clearer this way. I will paraphrase excerpts from this discussion
 to get my point across. For the impatient, there is a _TLDR_ at the end.
 
 Een nederlandstalige versie van deze post kan [hier](https://kwintendebacker.com/nl/posts/max_planck) worden teruggevonden.
