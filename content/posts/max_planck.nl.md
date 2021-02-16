@@ -60,18 +60,18 @@ geen geldige argumenten, want het zegt niks over wat men eigenlijk probeert te v
 
 Whataboutismes kunnen wel gebruikt worden om de ongeldigheid 
 van een ander argument te illustreren. Dat andere argument is in dit geval een [Nirvana Fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy).
-De _Nirvana Fallacy_ bestaat eruit een idee aan te vallen op de grond dat het niet perfect is. Er wordt een alternatief aangedragen dat beter zou zijn,
+Deze drogreden bestaat eruit een idee aan te vallen op de grond dat het niet perfect is. Er wordt een alternatief aangedragen dat beter zou zijn,
 maar bij nader onderzoek blijkt dat dit alternatief een zuiver theoretische constructie is en nooit kan bestaan in de echte wereld. In dit geval probeert de gebruiker te argumenteren dat bitcoin helemaal niet nodig zou zijn in een wereld waar:
 
 - De centrale banken stoppen met het scheppen van groteske ongelijkheid om de politieke status-quo in stand te houden
 - De centrale banken stoppen met het illegaal sponsoren van de fossiele brandstofindustrie
 - De Amerikanen stoppen met het scheppen van terroristen door oorlogsmisdaden te plegen in het Midden-Oosten om hun olie-dollar-imperium in stand te houden
-- De Amerikanen een man levenslang in de cel willen stoppen omdat hij hun oorlogsmisdaden aan het licht heeft gebracht
+- De Amerikanen niet een man levenslang in de cel willen stoppen omdat hij deze oorlogsmisdaden aan het licht heeft gebracht
 - De bankrekeningen van politieke dissidenten in Spanje, China, Turkije, Venezuela, en alle andere landen ter wereld niet bevroren of geconfisceerd worden omdat ze democratische oppositie voeren.
-- Het regenwoud wordt verwoest in Afrika om putten te maken waaruit glimmende stenen naar boven worden gehaald, deze stenen vervolgens naar Zwitsterland worden getransporteerd om ze daar opnieuw in een put in de grond te steken.
-- Vastgoedprijzen door het beleid van bovengenoemde centrale banken absurde niveaus bereiken, waardoor het voor meer en meer jonge mensen en migranten onmogelijk is om zelf ooit een huis te bezitten.
+- Het regenwoud niet wordt verwoest in Afrika om putten te maken waaruit glimmende stenen naar boven worden gehaald, deze stenen vervolgens niet naar Zwitsterland worden getransporteerd om ze daar opnieuw in een put in de grond te steken.
+- Vastgoedprijzen door het beleid van bovengenoemde centrale banken geen absurde niveaus bereiken, waardoor het voor meer en meer jonge mensen en migranten onmogelijk is om zelf ooit een huis te bezitten.
 
-Helaas is dat niet onze wereld aangezien al deze dingen vandaag de harde realiteit zijn.
+Helaas is dat niet onze wereld aangezien al deze dingen vandaag wel degelijk de harde realiteit zijn.
 
 Het is mij al lang duidelijk geworden dat er geen louter politieke of militaire oplossing kan zijn voor al bovenstaande problemen,
 en dat de enige mogelijkheid is om _out of the box_ te denken en te aanvaarden dat bitcoin wel een mogelijke oplossing kan zijn,
