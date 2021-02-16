@@ -59,7 +59,7 @@ Dit is correct, maar is ook een drogreden: dit noemt men een [whataboutism](http
 geen geldige argumenten, want het zegt niks over wat men eigenlijk probeert te verdedigen.
 
 Whataboutismes kunnen wel gebruikt worden om de ongeldigheid 
-van een ander argument te illustreren. Dat "ander argument" is in dit geval een [Nirvana Fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy).
+van een ander argument te illustreren. Dat andere argument is in dit geval een [Nirvana Fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy).
 De _Nirvana Fallacy_ bestaat eruit een idee aan te vallen op de grond dat het niet perfect is. Er wordt een alternatief aangedragen dat beter zou zijn,
 maar bij nader onderzoek blijkt dat dit alternatief een zuiver theoretische constructie is en nooit kan bestaan in de echte wereld. In dit geval probeert de gebruiker te argumenteren dat bitcoin helemaal niet nodig zou zijn in een wereld waar:
 
