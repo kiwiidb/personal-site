@@ -61,7 +61,7 @@ not a valid argument, because it says nothing about what one is actually trying 
 Whataboutisms can however be used to illustrate the invalidity
 of another argument. That "other argument" in this case is a [Nirvana Fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy).
 This fallacy consists of attacking an idea on the grounds that it is not perfect. An alternative is presented that would be better,
-but upon closer examination, it appears that this alternative is a purely theoretical construction and can never exist in the real world. In this case, the user is trying to argue that bitcoin wouldn't be necessary at all in a world where:
+but upon closer examination, this alternative turns out to be a purely theoretical construction and can never exist in the real world. In this case, the user is trying to argue that bitcoin wouldn't be necessary at all in a world where:
 
 - Central banks stop creating grotesque inequality to maintain the political status quo
 - Central banks will stop illegally sponsoring the fossil fuel industry
@@ -69,7 +69,7 @@ but upon closer examination, it appears that this alternative is a purely theore
 - The Americans don't want to put a man in jail for life for exposing said war crimes
 - The bank accounts of political dissidents in Spain, China, Turkey, Venezuela, and all other countries in the world are not frozen or confiscated because they engage in democratic opposition.
 - The rainforest is not destroyed in Africa to make pits from which shiny stones are brought up and transported to Switzerland to be stored again in a pit in the ground.
-- Real estate prices are reaching absurd levels due to the policies of the above-mentioned central banks, making it impossible for more and more young people and immigrants to ever own a home.
+- Real estate prices are not reaching absurd levels due to the policies of the above-mentioned central banks, making it impossible for more and more young people and immigrants to ever own a home.
 
 Unfortunately, that is not our world as all these things are the harsh reality today.
 
