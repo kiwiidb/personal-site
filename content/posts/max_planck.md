@@ -44,6 +44,7 @@ We must consume by banning things from life that inherently emit greenhouse gase
 > creates wealth in the short term, but destroys it in the longer term. Anyone can use this energy
 > then use it for _whatever they please_, be it Christmas lights, GPU rendering, or mining bitcoins. A personal
 > opinion about the usefulness of some activity that is carried out with the energy is no longer relevant at that moment.
+
 ## _Whataboutism_ versus the _Nirvana Fallacy_
 
 > <- The classical system also uses alot of energy
