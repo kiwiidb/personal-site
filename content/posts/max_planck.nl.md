@@ -36,6 +36,7 @@ Produceren moeten we doen door:
 
 Mijn kernenergiepleidooi is er een voor een andere blogpost, maar het is u alvast niet ontgaan dat ik een fan ben.
 Consumeren moeten we doen door dingen die inherent wel broeikasgassen uitstoten te verbannen uit het leven:
+
 - Geen vlees te eten
 - Ons verplaatsen met zuiver elektrische transportmiddelen
 
