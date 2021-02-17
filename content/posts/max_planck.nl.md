@@ -52,7 +52,6 @@ Consumeren moeten we doen door dingen die inherent wel broeikasgassen uitstoten 
 > 
 > -> Nog zo'n stokpaardje van de bitcoinmeute: whataboutismes.
 
-Een veelgehoord tegenargument dat door bitcoinvoorstanders in het energiedebat wordt gebruikt is dat het klassieke 
 Een veelgehoord tegenargument dat door bitcoinvoorstanders in het energiedebat wordt gebruikt is dat het klassieke financiele systeem ook veel energie verbruikt.
 Een frappant voorbeeld is dat de Europese Centrale bank letterlijk [geld print en uitdeelt aan oliereuzen](https://www.greenpeace.org/eu-unit/issues/climate-energy/3933/ecb-injects-e7-billion-into-fossil-fuels-coronavirus-crisis/).
 
