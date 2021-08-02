@@ -15,11 +15,13 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 ## Experience
 ### Infrastructure Engineer at [Strike](https://strike.me)
 - 08/2021 - ...
+
 ### Founder at [Flitz](https://flitz.be)
 - 04/2021 - ...
 - Flitz is a Lightning-native non-custodial Bitcoin DCA-platform (Dollar Cost Averaging, a way to buy Bitcoin on regular intervals).
 - Back-end Golang, Kubernetes, C-Lightning
 - App written with Flutter
+
 ### Freelance DevOps / Back-end Engineer at [Battmobiel](https://battmobiel.be)
 - 01/2020 - 03-2021
 - Setting up infrastructure, integration and deployment pipelines for back-end services deployed on Azure's AKS.
