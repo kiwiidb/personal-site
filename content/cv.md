@@ -13,8 +13,15 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
     I have researched relativistic star clusters, using numerical methods and *SciPy* to solve the field equations and to calculate photon orbits.
 
 ## Experience
+### Infrastructure Engineer at [Strike](https://strike.me)
+- 08/2021 - ...
+### Founder at [Flitz](https://flitz.be)
+- 04/2021 - ...
+- Flitz is a Lightning-native non-custodial Bitcoin DCA-platform (Dollar Cost Averaging, a way to buy Bitcoin on regular intervals).
+- Back-end Golang, Kubernetes, C-Lightning
+- App written with Flutter
 ### Freelance DevOps / Back-end Engineer at [Battmobiel](https://battmobiel.be)
-- 01/2020 - ...
+- 01/2020 - 03-2021
 - Setting up infrastructure, integration and deployment pipelines for back-end services deployed on Azure's AKS.
 - Developing Spring Boot microservices
 
