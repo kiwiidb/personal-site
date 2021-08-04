@@ -14,7 +14,7 @@ enableEmoji = true
 
 [params]
 author = "Kwinten De Backer"
-description = "Freelance Back-End & DevOps"
+description = "Freelance back-end & DevOps"
 
 ## Set one of:
 # gravatar = "soho@example.com"
