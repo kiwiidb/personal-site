@@ -14,7 +14,7 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 
 ## Experience
 ### Infrastructure Engineer at [Strike](https://strike.me)
-- 08/2021 - ...
+- 08/2021 - 10/2021
 
 ### Founder at [Flitz](https://flitz.be)
 - 04/2021 - ...
