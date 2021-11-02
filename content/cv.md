@@ -18,6 +18,7 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 - Flitz is a Lightning-native non-custodial Bitcoin DCA-platform (Dollar Cost Averaging, a way to buy Bitcoin on regular intervals).
 - Back-end Golang, Kubernetes, C-Lightning
 - App written with Flutter
+
 ### Infrastructure Engineer at [Strike](https://strike.me)
 - 08/2021 - 10/2021
 - Working with Kubernetes, GCP, Terraform, Enterprise LND nodes
