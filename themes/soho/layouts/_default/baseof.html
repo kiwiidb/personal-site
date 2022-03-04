@@ -53,6 +53,7 @@
   {{ range .AlternativeOutputFormats -}}
     {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
   {{ end -}}
+  <meta name="lightning" content="lnurlp:kiwiidb@getalby.com"/>
 </head>
 <body>
   {{ partial "sidebar.html" . }}
