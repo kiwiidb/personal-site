@@ -7,10 +7,12 @@ type: post
 I'm Kwinten, born in 1994, freelance physicist-turned-software-engineer from Ghent, Belgium. 
 Professionally I enjoy developing back-end software and infrastructure.
 I'm quite good at writing things in Bash, Go and YAML, although I have worked
-with many languages, frameworks and technologies. I enjoy working with Linux
-machines and automating cloud infrastructure integration and deployment. 
+with many languages, frameworks and technologies. I enjoy working with managed Kubernetes, Lightning Network nodes, and automating cloud infrastructure integration and deployment. 
 
-In my free time, I enjoy developing [Lightning](https://www.lopp.net/lightning-information.html) apps, play [Warhammer Fantasy](https://www.the-ninth-age.com) and participate in quizzes.
+Check out my [Helm charts](https://github.com/flitz-be/helm-charts/).
+To start browsing or developing the Lightning-native web, check out [Alby](https://getalby.com).
+
+In my free time, I enjoy playing [Warhammer Fantasy](https://www.the-ninth-age.com) and participate in quizzes.
 
 Please take a look at my [CV](./cv), [projects](./portfolio) I've worked on, or my [blog](./posts).
 
