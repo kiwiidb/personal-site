@@ -13,6 +13,10 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
     I have researched relativistic star clusters, using numerical methods and *SciPy* to solve the field equations and to calculate photon orbits.
 
 ## Experience
+### Infrastructure Engineer at [Alby](https://getalby.com)
+- 12/2021 - ...
+- Working with Kubernetes, Terraform, Enterprise Lightning nodes.
+- Developing Lightning-backed backend services like [lndhub.go](https://github.com/getalby/lndhub.go)
 ### Founder at [Flitz](https://flitz.be)
 - 04 / 2021 - 11 / 2021
 - Flitz is a Lightning-native non-custodial Bitcoin DCA-platform (Dollar Cost Averaging, a way to buy Bitcoin on regular intervals).
