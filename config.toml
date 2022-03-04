@@ -4,11 +4,6 @@ title = "Kwinten De Backer"
 enableInlineShortcodes = true
 theme = ["soho", "plausible-hugo"]  # Add this theme to your already existing other themes
 
-[params.plausible]
-  enable = true  # Whether to enable plausible tracking
-  domain = "kwintendebacker.com"  # Plausible "domain" name/id in your dashboard 
-  selfhosted_domain = "analytics.flitz.be"
-
 summarylength = 10
 enableEmoji = true
 
