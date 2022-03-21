@@ -7,6 +7,11 @@ import (
 	"strconv"
 )
 
+const (
+	LNDHUB_HOST  = "clnhub.mainnet.getalby.com"
+	LNDHUB_LOGIN = "ZnznCgl3VxV5hMFF9MVT"
+)
+
 type CallBack struct {
 	// payment request
 	Pr string `json:"pr,omitempty"`
