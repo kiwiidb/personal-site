@@ -64,6 +64,7 @@ func CallbackHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func createInvoicePayload(user, comment string, amount int) (result *CallBack, err error) {
+	fmt.Println("here")
 	descriptionToHash := createLnurlMetadata(user)
 	hasher := sha256.New()
 	_, err = hasher.Write([]byte(descriptionToHash))
@@ -74,7 +75,7 @@ func createInvoicePayload(user, comment string, amount int) (result *CallBack, e
 	payload := &bytes.Buffer{}
 	err = json.NewEncoder(payload).Encode(&LNDHubRequest{
 		Amount:          amount,
-		Memo:            "comment",
+		Memo:            comment,
 		DescriptionHash: descriptionHash,
 	})
 	if err != nil {
@@ -84,6 +85,7 @@ func createInvoicePayload(user, comment string, amount int) (result *CallBack, e
 	if err != nil {
 		return nil, err
 	}
+	fmt.Println("heere")
 	invoice := &LNDHubResponse{}
 	err = json.NewDecoder(resp.Body).Decode(invoice)
 	if err != nil {
