@@ -1,6 +1,6 @@
 {
 	"rewrites": [
-	  { "source": "/.well-known/lnurlp/(.*)", "destination": "https://personal-site-go.vercel.app/api/lnurlp/$1" },
-	  { "source": "/callback/(.*)", "destination": "https://personal-site-go.vercel.app/api/callback/$1" }
+	  { "source": "/.well-known/lnurlp/:user", "destination": "https://personal-site-go.vercel.app/api/lnurlp/:user" },
+	  { "source": "/callback/:user", "destination": "https://personal-site-go.vercel.app/api/callback/:user" }
 	]
 }
