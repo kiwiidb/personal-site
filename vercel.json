@@ -1,6 +1,5 @@
 {
 	"rewrites": [
-	  { "source": "/.well-known/lnurlp/:user", "destination": "/api/lnurlp" },
-	  { "source": "/callback/:user", "destination": "/api/callback" }
+	  { "source": "/.well-known/lnurlp/:user", "destination": "/api/lnurlp" }
 	]
 }

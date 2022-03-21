@@ -7,9 +7,11 @@ import (
 )
 
 const (
-	HOST = "kwintendebacker.com"
-	MAX  = 1e6
-	MIN  = 1e4
+	HOST         = "kwintendebacker.com"
+	MAX          = 1e6
+	MIN          = 1e4
+	LNDHUB_HOST  = "clnhub.mainnet.getalby.com"
+	LNDHUB_LOGIN = "ZnznCgl3VxV5hMFF9MVT"
 )
 
 type LNURLPayBody struct {
@@ -35,7 +37,7 @@ func LnUrlPHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	response := &LNURLPayBody{
-		Callback:       fmt.Sprintf("https://%s/callback/%s", HOST, user),
+		Callback:       fmt.Sprintf("https://%s/api/callback?user=%s", HOST, user),
 		CommentAllowed: 512,
 		MaxSendable:    MAX,
 		Metadata:       createLnurlMetadata(user),
