@@ -7,6 +7,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
+	"os"
 	"strconv"
 )
 
@@ -47,7 +48,7 @@ func CallbackHandler(w http.ResponseWriter, r *http.Request) {
 		w.WriteHeader(http.StatusBadRequest)
 		return
 	}
-	payload, err := createInvoicePayload(user, comment, intAmt)
+	payload, err := createInvoicePayload(user, r.URL.Host, comment, intAmt)
 	if err != nil {
 		json.NewEncoder(w).Encode(&Error{
 			Reason: err.Error(),
@@ -63,29 +64,36 @@ func CallbackHandler(w http.ResponseWriter, r *http.Request) {
 	w.WriteHeader(http.StatusOK)
 }
 
-func createInvoicePayload(user, comment string, amount int) (result *CallBack, err error) {
-	fmt.Println("here")
-	descriptionToHash := createLnurlMetadata(user)
+func createInvoicePayload(user, host, comment string, amountMsat int) (result *CallBack, err error) {
+	descriptionToHash := createLnurlMetadata(user, host)
 	hasher := sha256.New()
 	_, err = hasher.Write([]byte(descriptionToHash))
 	if err != nil {
 		return nil, err
 	}
-	descriptionHash := hex.EncodeToString(hasher.Sum(nil))
+	descriptionHash := hasher.Sum(nil)
 	payload := &bytes.Buffer{}
 	err = json.NewEncoder(payload).Encode(&LNDHubRequest{
-		Amount:          amount,
+		Amount:          amountMsat / 1000,
 		Memo:            comment,
-		DescriptionHash: descriptionHash,
+		DescriptionHash: hex.EncodeToString([]byte(descriptionHash)),
 	})
 	if err != nil {
 		return nil, err
 	}
-	resp, err := http.Post(fmt.Sprintf("https://%s/invoice/%s", LNDHUB_HOST, LNDHUB_LOGIN), "application/json", payload)
+	lndhubHost := os.Getenv("LNDHUB_HOST")
+	lndhubLogin := os.Getenv("LNDHUB_LOGIN")
+	if lndhubHost == "" || lndhubLogin == "" {
+		return nil, fmt.Errorf("LNURL Pay Server is not configured correctly, contact admin.")
+	}
+
+	resp, err := http.Post(fmt.Sprintf("https://%s/invoice/%s", lndhubHost, lndhubLogin), "application/json", payload)
 	if err != nil {
 		return nil, err
 	}
-	fmt.Println("heere")
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("Something went wrong calling lndhub, status code %d", resp.StatusCode)
+	}
 	invoice := &LNDHubResponse{}
 	err = json.NewDecoder(resp.Body).Decode(invoice)
 	if err != nil {
