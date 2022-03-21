@@ -34,10 +34,10 @@ func LnUrlPHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	response := &LNURLPayBody{
-		Callback:       fmt.Sprintf("https://%s/api/callback?user=%s", r.URL.Host, user),
+		Callback:       fmt.Sprintf("https://%s/api/callback?user=%s", r.Host, user),
 		CommentAllowed: 512,
 		MaxSendable:    MAX,
-		Metadata:       createLnurlMetadata(user, r.URL.Host),
+		Metadata:       createLnurlMetadata(user, r.Host),
 		MinSendable:    MIN,
 		Tag:            "payRequest",
 	}

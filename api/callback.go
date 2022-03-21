@@ -48,7 +48,7 @@ func CallbackHandler(w http.ResponseWriter, r *http.Request) {
 		w.WriteHeader(http.StatusBadRequest)
 		return
 	}
-	payload, err := createInvoicePayload(user, r.URL.Host, comment, intAmt)
+	payload, err := createInvoicePayload(user, r.Host, comment, intAmt)
 	if err != nil {
 		json.NewEncoder(w).Encode(&Error{
 			Reason: err.Error(),
