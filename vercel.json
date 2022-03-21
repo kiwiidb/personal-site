@@ -1,8 +1,8 @@
 {
 	"rewrites": [
 	  {
-	    "source": "/.well-known",
-	    "destination": "/api"
+	    "source": "/.well-known/.*",
+	    "destination": "https://personal-site-go.vercel.app/api/.*"
 	  }
 	]
 }
