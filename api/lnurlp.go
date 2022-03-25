@@ -4,11 +4,13 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
+	"os"
+	"strconv"
 )
 
 const (
-	MIN = 1e5
-	MAX = 1e9
+	DEFAULT_MIN = int(1e3)
+	DEFAULT_MAX = int(1e8)
 )
 
 type LNURLPayBody struct {
@@ -33,15 +35,32 @@ func LnUrlPHandler(w http.ResponseWriter, r *http.Request) {
 		w.WriteHeader(http.StatusBadRequest)
 		return
 	}
+	MIN := DEFAULT_MIN
+	MAX := DEFAULT_MAX
+	minimum := os.Getenv("MIN_SENDABLE")
+	var err error
+	if minimum != "" {
+		MIN, err = strconv.Atoi(minimum)
+		if err != nil {
+			MIN = DEFAULT_MIN
+		}
+	}
+	maximum := os.Getenv("MAX_SENDABLE")
+	if maximum != "" {
+		MAX, err = strconv.Atoi(maximum)
+		if err != nil {
+			MAX = DEFAULT_MAX
+		}
+	}
 	response := &LNURLPayBody{
 		Callback:       fmt.Sprintf("https://%s/api/callback?user=%s", r.Host, user),
 		CommentAllowed: 512,
-		MaxSendable:    MAX,
+		MaxSendable:    int32(MAX),
 		Metadata:       createLnurlMetadata(user, r.Host),
-		MinSendable:    MIN,
+		MinSendable:    int32(MIN),
 		Tag:            "payRequest",
 	}
-	err := json.NewEncoder(w).Encode(response)
+	err = json.NewEncoder(w).Encode(response)
 	if err != nil {
 		fmt.Println(err.Error())
 	}

@@ -50,10 +50,11 @@ func CallbackHandler(w http.ResponseWriter, r *http.Request) {
 	}
 	payload, err := createInvoicePayload(user, r.Host, comment, intAmt)
 	if err != nil {
-		json.NewEncoder(w).Encode(&Error{
+		_ = json.NewEncoder(w).Encode(&Error{
 			Reason: err.Error(),
 			Status: "ERROR",
 		})
+
 		w.WriteHeader(http.StatusInternalServerError)
 		return
 	}
