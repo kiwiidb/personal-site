@@ -37,11 +37,6 @@ customJs = ["js/blog.js"]
   title = "GitHub"
   url = "https://github.com/kiwiidb"
 
-  [[params.socialIcons]]
-  icon = "fa-twitter"
-  title = "Twitter"
-  url = "https://twitter.com/kiwiidb"
-
 [menu]
 
   [[menu.main]]
