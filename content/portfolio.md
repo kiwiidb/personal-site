@@ -5,8 +5,8 @@ draft: false
 ---
 # Talks at Bitcoin Amsterdam 2022
 
-[![Connect the World](https://www.youtube.com/watch?v=SazAgC4Zkng)](https://www.youtube.com/watch?v=SazAgC4Zkng)
-[![LSAT Presentation](https://www.youtube.com/watch?v=WPHMJLpYWxw)](https://www.youtube.com/watch?v=WPHMJLpYWxw)
+[![Connect the World](https://img.youtube.com/watch?v=SazAgC4Zkng)](https://www.youtube.com/watch?v=SazAgC4Zkng)
+[![LSAT Presentation](https://img.youtube.com/watch?v=WPHMJLpYWxw)](https://www.youtube.com/watch?v=WPHMJLpYWxw)
 
 # [Flitz](https://flitz.cards)
 I made a [Lightning Network](https://lightning.network) gift card service, delivered by e-mail. The stack I am using is:
