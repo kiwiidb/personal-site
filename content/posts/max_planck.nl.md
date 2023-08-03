@@ -1,7 +1,7 @@
 ---
 title: "Eén begrafenis per keer"
 date: 2021-02-16T08:00:00+01:00
-draft: false
+draft: true
 ---
 Gezien het ontelbare aantal artikels over het energieverbruik van het Bitcoinnetwerk begon ik ook last te krijgen van een zekere _FOMO_
 om er iets over te schrijven. De onverbetelijke betweter in mij haat het als iemand [fout is op het internet](https://xkcd.com/386/),

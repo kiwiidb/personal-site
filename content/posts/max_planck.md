@@ -1,7 +1,7 @@
 ---
 title: "One funeral at a time"
 date: 2021-02-16T08:00:00+01:00
-draft: false
+draft: true
 ---
 Given the countless number of articles about the energy consumption of the Bitcoin network, I also started to suffer from a certain _FOMO_
 to write something about it. The unaffordable know-it-all in me hates it when [someone is wrong on the internet](https://xkcd.com/386/),
