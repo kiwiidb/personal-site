@@ -1,7 +1,7 @@
 ---
 title: "Meme"
 date: 2023-08-01T08:00:00+01:00
-draft: false
+draft: true
 ---
 
 In januari 2008 zat ik met meme aan tafel in de keuken van Dries nr.4 in Denderbelle. Ter ere van mijn 14e verjaardag had ze (zoals ze wel vaker deed) pannenkoeken gebakken. Terwijl ik mij in de TL-verlichte keuken te goed zat te doen aan deze heerlijke maaltijd liet ze terloops vallen: "toen ik 14 jaar werd was de oorlog juist uitgebroken". Dit moment is mij altijd bijgebleven omdat het iets heel anachronistisch heeft. Ik zat daar rustig pannenkoeken te eten met iemand die ooit rondwandelde in een lang vervlogen wereld en nu gewoon hier was om erover te vertellen.
