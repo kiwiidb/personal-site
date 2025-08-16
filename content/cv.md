@@ -3,20 +3,19 @@ title: "Curriculum Vitae"
 date: 2020-02-27T21:22:17+01:00
 draft: false
 ---
-## Master in Physics and Astronomy
-- From 2012 to 2017, I studied physics at Ghent University. My interests mainly lied with theoretical and computational physics.
-Towards the end of my degree, my elective courses mostly pivoted to software development.
-
-
-- Master's thesis: [Observational characteristics of relativistic star clusters](https://lib.ugent.be/fulltxt/RUG01/002/349/830/RUG01-002349830_2017_0001_AC.pdf).
-
-    I have researched relativistic star clusters, using numerical methods and *SciPy* to solve the field equations and to calculate photon orbits.
-
 ## Experience
+### Backend Engineer at [Battmobiel](https://battmobility.be)
+- 04/2024 -
+- Writing backend applications in Java (Spring Boot) and Go
+- Writing frontend applications in Flutter
+### Devops Engineer at [Nexuzhealth](https://www.nexuzhealth.com/nl/)
+- 12/2023 - 04/2024
+- Working with Terraform, Kubernetes, Google Cloud
 ### Infrastructure Engineer at [Alby](https://getalby.com)
-- 12/2021 - ...
+- 12/2021 - 12/2023
 - Working with Kubernetes, Terraform, Enterprise Lightning nodes.
 - Developing Lightning-backed backend services like [lndhub.go](https://github.com/getalby/lndhub.go)
+- Development of [Nostr Wallet Connect](https://nwc.dev/), a protocol for sending bitcoin payments using e2e-encrypted websocket requests.
 ### Founder at [Flitz](https://flitz.be)
 - 04 / 2021 - 11 / 2021
 - Flitz is a Lightning-native non-custodial Bitcoin DCA-platform (Dollar Cost Averaging, a way to buy Bitcoin on regular intervals).
@@ -28,7 +27,7 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 - Working with Kubernetes, GCP, Terraform, Enterprise LND nodes
 
 
-### Freelance DevOps / Back-end Engineer at [Battmobiel](https://battmobiel.be) / [Sofico](https://sofico.be)
+### DevOps / Back-end Engineer at [Battmobiel](https://battmobility.be) / [Sofico](https://sofico.be)
 - 01/2020 - 03 / 2021
 - Setting up infrastructure, integration and deployment pipelines for back-end services deployed on Azure's AKS.
 - Developing Spring Boot microservices
@@ -47,6 +46,16 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 ### Deep Learning Engineer at [Robovision](https://robovision.ai)
 - 09/2017 - 02/2018
 - Developing Deep Learning systems for industrial applications.
+
+## Master in Physics and Astronomy
+- From 2012 to 2017, I studied physics at Ghent University. My interests mainly lied with theoretical and computational physics.
+Towards the end of my degree, my elective courses mostly pivoted to software development.
+
+
+- Master's thesis: [Observational characteristics of relativistic star clusters](https://lib.ugent.be/fulltxt/RUG01/002/349/830/RUG01-002349830_2017_0001_AC.pdf).
+
+    I have researched relativistic star clusters, using numerical methods and *SciPy* to solve the field equations and to calculate photon orbits.
+
 
 ## Software skills
 **Worked a lot with these**
