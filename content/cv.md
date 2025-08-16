@@ -16,9 +16,9 @@ draft: false
 - Working with Kubernetes, Terraform, Enterprise Lightning nodes.
 - Developing Lightning-backed backend services like [lndhub.go](https://github.com/getalby/lndhub.go)
 - Development of [Nostr Wallet Connect](https://nwc.dev/), a protocol for sending bitcoin payments using e2e-encrypted websocket requests.
-### Founder at [Flitz](https://flitz.be)
+### Founder at Flitz
 - 04 / 2021 - 11 / 2021
-- Flitz is a Lightning-native non-custodial Bitcoin DCA-platform (Dollar Cost Averaging, a way to buy Bitcoin on regular intervals).
+- Flitz was a Lightning-native non-custodial Bitcoin DCA-platform (Dollar Cost Averaging, a way to buy Bitcoin on regular intervals).
 - Back-end Golang, Kubernetes, C-Lightning
 - App written with Flutter
 
