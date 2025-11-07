@@ -3,6 +3,14 @@ title: "Portfolio"
 date: 2020-02-27T21:22:25+01:00
 draft: false
 ---
+# Plowshare
+[Plowshare](https://plowshare.social) is a platform for sharing Magic the Gathering EDH games.
+![](plowshare.png "Plowshare")
+# Nostr Wallet Connect
+NWC is a protocol for talking to a wallet using an e2e encrypted connection over a websocket relay.
+It is used by multiple nostr clients and wallets. 
+https://github.com/nostr-protocol/nips/blob/master/47.md
+
 # Talks at Bitcoin Amsterdam 2022
 
 [![Connect the World](https://img.youtube.com/vi/SazAgC4Zkng/0.jpg)](https://www.youtube.com/watch?v=SazAgC4Zkng)
