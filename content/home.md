@@ -5,12 +5,15 @@ draft: false
 type: post
 ---
 I'm Kwinten, born in 1994, physicist-turned-software-engineer from Ghent, Belgium. 
-Professionally I enjoy developing back-end software and infrastructure.
-I'm quite good at writing things in Bash, Go and YAML, although I have worked
-with many languages, frameworks and technologies. I enjoy working with managed Kubernetes, Lightning Network nodes, and automating cloud infrastructure integration and deployment. 
+I enjoy building things (mostly software). I enjoy combining technologies in novel ways.
+I feel most satisfied if people are then actually also happily using these things.
+I have worked with many languages, frameworks and technologies. I have written a lot of Go
+and deployed lots of Helm charts.
 
-Check out my [Helm charts](https://github.com/flitz-be/helm-charts/).
-To start browsing or developing the Lightning-native web, check out [Alby](https://getalby.com).
+My best work includes [Plowshare](https://plowshare.social), a platform for sharing Magic the Gathering EDH games 
+and [Nostr Wallet Connect](https://github.com/nostr-protocol/nips/blob/master/47.md), a protocol for talking to a bitcoin wallet using an e2e encrypted connection over a websocket relay.
+
+Check out my [Helm charts](https://github.com/kiwiidb/helm-charts/).
 
 In my free time, I enjoy playing Magic The Gathering, bouldering and participating in pub quizzes.
 
