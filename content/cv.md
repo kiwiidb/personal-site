@@ -58,11 +58,5 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 
 
 ## Software skills
-**Worked a lot with these**
 
-   Git, Go, Python, Java, Flutter, VueJS, Bash, Kubernetes, Helm, Jenkins, Docker, AWS, Google Cloud, Azure (DevOps), Terraform, Kafka, C-Lightning, LND, Zeit Serverless.
-
-**Worked with these before**
-
-  Keras, Tensorflow, C++, C, R, Latex, OpenCV, Redis, ElasticSearch, npm, MongoDB, PostgreSQL, Grafana, Prometheus, OpsGenie, bitcoind.
-
+Go, Java, PostgreSQL, Prometheus stack, Flutter, Kubernetes, Azure, Google Cloud, AWS, Digital Ocean, Helm, Terraform, Docker.
