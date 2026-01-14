@@ -3,6 +3,10 @@ title: "Curriculum Vitae"
 date: 2020-02-27T21:22:17+01:00
 draft: false
 ---
+## Software skills
+
+Go, Java, PostgreSQL, Prometheus stack, Flutter, Kubernetes, Azure, Google Cloud, AWS, Digital Ocean, Helm, Terraform, Docker.
+
 ## Experience
 ### Backend Engineer at [Battmobiel](https://battmobility.be)
 - 04/2024 -
@@ -56,7 +60,3 @@ Towards the end of my degree, my elective courses mostly pivoted to software dev
 
     I have researched relativistic star clusters, using numerical methods and *SciPy* to solve the field equations and to calculate photon orbits.
 
-
-## Software skills
-
-Go, Java, PostgreSQL, Prometheus stack, Flutter, Kubernetes, Azure, Google Cloud, AWS, Digital Ocean, Helm, Terraform, Docker.
