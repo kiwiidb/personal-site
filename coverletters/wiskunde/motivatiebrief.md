@@ -1,4 +1,4 @@
-Beste,
+Beste mevrouw Oushoorn
 
 Ik zou graag solliciteren voor de vacature leerkracht wiskunde. Ik ben Kwinten, ik heb een Master in Fysica en Sterrenkunde en ik heb 8 jaar ervaring als software-ontwikkelaar.
 Ik zou dus graag beginnnen als zij-instromer. Dit is een beetje een sprong in het onbekende maar ik ben erg gemotiveerd en heb een grote passie voor wiskunde en natuurkunde.
