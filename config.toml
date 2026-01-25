@@ -49,7 +49,7 @@ customJs = ["js/blog.js"]
   name = "CV"
   identifier = "cv"
   weight = 300
-  url = "/cv/"
+  url = "/cv.pdf/"
 
 [[menu.main]]
   name = "Portfolio"
