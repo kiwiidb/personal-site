@@ -30,7 +30,7 @@ customJs = ["js/blog.js"]
   [[params.socialIcons]]
   icon = "fa-linkedin"
   title = "Linkedin"
-  url = "https://be.linkedin.com/in/kwinten-de-backer-5087b5195"
+  url = "https://www.linkedin.com/in/%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%94%A7-kwinten-de-backer-5087b5195/"
 
   [[params.socialIcons]]
   icon = "fa-github"
